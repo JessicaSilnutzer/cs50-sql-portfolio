@@ -1,12 +1,12 @@
 # SQL Portfolio – CS50
 This repository contains SQL projects completed as part of Harvard’s CS50 SQL course. These projects demonstrate my ability to query, analyze, and extract insights from structured datasets.
 
-About Me
+About Me:
 I am a Mathematics student with a focus on data analytics, building skills in SQL, data analysis, and problem-solving.
 This repository is part of my growing technical portfolio.
 
 
-Projects
+Projects:
 
 Cyberchase
 Queried episode data using filtering, aggregation, and joins
@@ -24,7 +24,7 @@ Used aggregate functions like `AVG`, `COUNT`, and `ROUND`
 Applied conditional filtering for deeper analysis
 
 
-Skills Demonstrated
+Skills Demonstrated:
 SQL querying (SELECT, WHERE, ORDER BY)
 Aggregations (AVG, COUNT, ROUND)
 Data filtering and conditions
