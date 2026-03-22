@@ -8,20 +8,20 @@ This repository is part of my growing technical portfolio.
 
 Projects:
 
-Cyberchase
-Queried episode data using filtering, aggregation, and joins
-Extracted insights about seasons, topics, and release patterns
-Practiced writing efficient and readable SQL queries
+Cyberchase-
+Queried episode data using filtering, aggregation, and joins.
+Extracted insights about seasons, topics, and release patterns.
+Practiced writing efficient and readable SQL queries.
 
-Normals (Ocean Data)
-Worked with geographic coordinate data (latitude & longitude)
-Analyzed ocean temperature at different depths
+Normals (Ocean Data)-
+Worked with geographic coordinate data (latitude & longitude).
+Analyzed ocean temperature at different depths.
 Used conditions and filtering to extract meaningful results
 
-Players (MLB Baseball)
-Analyzed player statistics including height, weight, and performance
-Used aggregate functions like `AVG`, `COUNT`, and `ROUND`
-Applied conditional filtering for deeper analysis
+Players (MLB Baseball)-
+Analyzed player statistics including height, weight, and performance.
+Used aggregate functions like `AVG`, `COUNT`, and `ROUND`.
+Applied conditional filtering for deeper analysis.
 
 
 Skills Demonstrated:
